@@ -377,6 +377,11 @@ body{
     display: block;
 }
 
+.questions_offer{
+    display: grid;
+    place-items: center;
+}
+
 .questions_copy{
     width: 60%;
     margin-bottom: 30px;
