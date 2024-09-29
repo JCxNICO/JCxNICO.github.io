@@ -378,9 +378,9 @@ body{
 }
 
 .questions_copy{
-    margin: o auto;
     width: 60%;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 /* Footer */
